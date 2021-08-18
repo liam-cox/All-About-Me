@@ -29,5 +29,3 @@
  <hr> <footer>Liam Cox</br>&#169 2021</footer>
 </body>
   </html>
-  
-
