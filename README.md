@@ -1,41 +1,6 @@
 # All-About-Me
 <DOCTYPE html>
 <html>
-	body {
-  color: blue;
-}
-
-h1 {
-	color: #05a8co;
-}
-
-h2 {
-	color: #c2a36;
-}
-
-ol {
-	color: #65365a;
-}
-
-header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
-
-
-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
-}
-
 <head>
   <title>All About Me</title>
 </head>
